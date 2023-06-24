@@ -2,7 +2,6 @@
 
 FROM debian:11
 
-MAINTAINER gugatec "gugatec@gmail.com"
 ENV REFRESHED_AT 2023-06-24
 
 LABEL io.k8s.description="Headless VNC Container with Xfce window manager, firefox and chromium" \
